@@ -22,8 +22,6 @@
 - Insights: top genres, directors, countries, show types, ratings, duration  
 - Interactive Tableau dashboards  
 
-![Netflix Dashboard](https://github.com/GiorgosNeofotistos/GiorgosNeofotistos/blob/main/screenshots/netflix_dashboard.png)  
-
 - GitHub repository: [Netflix_Exploration](https://github.com/GiorgosNeofotistos/Netflix_Exploration)  
 
 ### 🐍 Subscription Churn Analysis
@@ -32,16 +30,12 @@
 - Python for data cleaning, feature engineering, clustering, segmentation, and predictive modeling  
 - Tableau dashboard for churn insights  
 
-![Churn Dashboard](https://github.com/GiorgosNeofotistos/GiorgosNeofotistos/blob/main/screenshots/churn_dashboard.png)  
-
 - GitHub repository: [subscription-churn-analysis](https://github.com/GiorgosNeofotistos/subscription-churn-analysis)  
 
 ### 🌍 Global Superstore Analysis
 - Interactive Tableau dashboard analyzing global retail dataset  
 - Insights on sales, profit, and regional performance  
 - Highlighted top products, categories, and customer segments  
-
-![Superstore Dashboard](https://github.com/GiorgosNeofotistos/GiorgosNeofotistos/blob/main/screenshots/superstore_dashboard.png)  
 
 - GitHub repository: [retail_analysis_project](https://github.com/GiorgosNeofotistos/retail_analysis_project)  
 
@@ -50,12 +44,9 @@
 - Revenue & profit analysis by product, region, and sales channel  
 - KPI tracking and actionable insights  
 
-![Retail Dashboard](https://github.com/GiorgosNeofotistos/GiorgosNeofotistos/blob/main/screenshots/retail_dashboard.png)  
-
 - GitHub repository: [Data-Analytics-Bootcamp-Portfolio](https://github.com/GiorgosNeofotistos/Data-Analytics-Bootcamp-Portfolio)  
 
 📫 Contact  
-🔗 LinkedIn  
+🔗 LinkedIn: www.linkedin.com/in/george-neofotistos94
 ✉️ Email: neofotistosg@hotmail.com  
 📅 Last Updated: September 2025
-
